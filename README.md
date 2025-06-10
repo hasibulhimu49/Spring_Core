@@ -352,10 +352,3 @@ spring-core-notes/
  └─ README.md (you are here)
 ```
 
----
-
-## License
-
-This project is licensed under the **MIT License**.
-
-> Feel free to fork, star ⭐, and contribute. Happy Spring learning!
