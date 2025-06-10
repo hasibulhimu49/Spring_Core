@@ -352,3 +352,32 @@ spring-core-notes/
  └─ README.md (you are here)
 ```
 
+
+---
+---
+```
+ 📚 Spring Core All Topics
+
+- Introduction to Spring Framework  
+- Inversion of Control (IoC) & Dependency Injection (DI)  
+- Bean Configuration  
+  - XML-based configuration  
+  - Annotation-based configuration (`@Component`, `@Bean`)  
+- Bean Scopes (`singleton`, `prototype`, `request`, `session`, etc.)  
+- Bean Lifecycle  
+- Spring Container and ApplicationContext  
+- Dependency Injection Types  
+  - Constructor Injection  
+  - Setter Injection  
+  - Field Injection  
+- Spring Annotations  
+  - `@Component`, `@Service`, `@Repository`, `@Controller`  
+  - `@Autowired`, `@Qualifier`, `@Value`  
+- Java-based Configuration (`@Configuration` and `@Bean`)  
+- Environment and Property Sources (`@PropertySource`, `Environment` abstraction)  
+- Resource Loading  
+- Spring Expression Language (SpEL)  
+- Event Handling in Spring  
+- Profiles (Development, Production, etc.)  
+- Spring Core Utilities (e.g., `BeanUtils`, `ReflectionUtils`)  
+- Introduction to Aspect-Oriented Programming (AOP) basics  
